@@ -1,3 +1,14 @@
+#Intellij
+.idea/
+
+#Maven
+*.mvnw
+.mvnw
+mvnw
+mvnw.cmd
+.target/
+target/
+
 # Compiled class file
 *.class
 
